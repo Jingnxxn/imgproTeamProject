@@ -1,6 +1,6 @@
 # imgproTeamProject
-종합 팀 프로젝트 계획서
-브레인 스토밍
+ - 종합 팀 프로젝트 계획서
+ - 브레인 스토밍
 
 ![image](https://user-images.githubusercontent.com/96435960/202132904-d90dc7d5-eb2b-4054-9ede-aec3b8bb3253.png)
 
